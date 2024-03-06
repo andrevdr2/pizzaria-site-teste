@@ -1,0 +1,112 @@
+body{
+background-color: #b1e46e;
+
+}
+
+
+
+/* Reset CSS */
+
+
+
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Basic Styles */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #3be4ab
+    ;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: #000000;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  #banner {
+    background-image: url('pizza-banner.jpg');
+    background-size:cover;
+    color: #000000;
+    text-align:center;
+    padding: 0px ;
+  }
+  
+  #banner h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+     border-radius: 60px;
+  }
+  
+  #menu {
+    text-align:center;
+  }
+
+
+  .pizza {
+    margin-bottom: 40px;
+  }
+  
+  .pizza img {
+    width: 400px;
+    border-radius: 60px;
+    
+  }
+  
+  .pizza h3 {
+    margin-top: 40px;
+  }
+  
+  .price {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+
+  
+    .cardapio img{
+      width: 650px;
+      border-radius: 1000px;
+      image-resolution: 1350 x 900px;
+
+    }
+
+    .cardapio {
+      margin-bottom: 80px; 
+      margin-top: 90px;
+    }
+  
